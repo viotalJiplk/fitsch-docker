@@ -1,0 +1,9 @@
+version: "2.2"
+
+services:
+  fitch:
+    build: ./
+    restart: $restart
+    container_name: fitch-dev
+    ports:
+      - "$Port:8080"

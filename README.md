@@ -1,4 +1,4 @@
-# Docker container for "WEB TOOL FOR ESTIMATION OF DOCUMENT SIZE"
+# Docker container for "Fit scheduler"
 Original project: https://github.com/kub05h/fitsch
 This project is based on *trafex/php-nginx* so it is not going to run on Windows.
 ## How to run the project

@@ -1,0 +1,9 @@
+version: "2.2"
+
+services:
+  fitsch:
+    image: viotal/fitch-docker:galloj
+    restart: $restart
+    container_name: fitsch
+    ports:
+      - "$Port:8080"

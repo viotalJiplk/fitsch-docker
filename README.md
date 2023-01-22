@@ -16,4 +16,4 @@ The application is going to run on the adress `http://127.0.0.1:8001`.
 5. *Change port in .env*
 6. Run `docker compose build`
 7. Run `docker compose up -d`
-8. The application is going to run on the adress `http://127.0.0.1:8000`. The tool is on the /standardpages endpoint.
+8. The application is going to run on the adress `http://127.0.0.1:8000`.
